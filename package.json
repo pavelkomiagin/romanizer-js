@@ -1,0 +1,25 @@
+{
+  "name": "romanizer-js",
+  "version": "1.0.0",
+  "description": "Easy Arabic-Roman numerals converter",
+  "main": "require('romanizer-js');",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelkomiagin/romanizer-js.git"
+  },
+  "keywords": [
+    "arabic",
+    "roman",
+    "numerals",
+    "converter"
+  ],
+  "author": "Pavel Komiagin <pavel.komiagin@gmail.com> (http://www.pavelkomiagin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavelkomiagin/romanizer-js/issues"
+  },
+  "homepage": "https://github.com/pavelkomiagin/romanizer-js#readme"
+}
