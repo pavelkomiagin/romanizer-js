@@ -1,2 +1,2 @@
 # romanizer-js
-Easy Arabic-Roman numerals converter
+Simple Arabic-Roman numerals converter
