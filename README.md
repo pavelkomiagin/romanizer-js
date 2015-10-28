@@ -6,4 +6,5 @@ Simple Arabic-Roman numerals converter
 ```javascript
 var romanizer = require('romanizer');
 var roman = romanizer.romanize(11)  // return 'XI'
+var arabic = romanizer.deromanize('XXI')  // return 21
 ```
