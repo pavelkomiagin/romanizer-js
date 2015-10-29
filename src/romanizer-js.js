@@ -64,6 +64,4 @@ var Romanizer = function(a, b) {
   };
 };
 
-module.exports = {
-  romanizer: new Romanizer()
-};
+module.exports = Romanizer;
